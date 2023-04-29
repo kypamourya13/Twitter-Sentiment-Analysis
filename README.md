@@ -1,8 +1,6 @@
 # Twitter-Sentiment-Analysis
 
-This script can tell you the sentiments of people regarding to any events happening in the world by analyzing tweets related to that event. It will search for tweets about any topic and analyze each tweet to see how positive or negative it's emotion is. You might want to check out this complete text and video based detailed [tutorial link](http://www.letscodepro.com/Twitter-Sentiment-Analysis/)
-
-![alt text](http://www.letscodepro.com/wp-content/uploads/2017/09/TwitterSentimentAnalysis.png)
+This script can tell you the sentiments of people regarding to any events happening in the world by analyzing tweets related to that event. It will search for tweets about any topic and analyze each tweet to see how positive or negative it's emotion is. You might want to check out this complete text and video based detailed [tutorial link](https://www.youtube.com/watch?v=1gQ6uG5Ujiw)
 
 
 ## Getting Started
@@ -43,9 +41,4 @@ Once you have created an app on twitter and installed all the dependencies by ru
 
 ## Authors
 
-Muhammad Ali Zia
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/the-javapocalypse/Twitter-Sentiment-Analysis/blob/master/License.txt) file for details
-
+Mourya Sai Charan Reddy Kypa
